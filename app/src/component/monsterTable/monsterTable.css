@@ -1,0 +1,10 @@
+.grid-card{
+    border-radius: 8px;
+    margin:0 5px 0 5px ; 
+    display: grid;    
+    grid-template-columns: auto auto  auto auto;
+    background-color: #8a1847;
+    padding: 10px;
+    
+  
+}

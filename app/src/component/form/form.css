@@ -1,0 +1,28 @@
+label{
+    color: #ffffff;
+    font-weight: 600;
+    font-style: oblique;
+}
+.emailInput, .nameInput{
+    border-radius: 12px;
+    height: 20px;
+    margin-top: 4px;
+}
+.save{
+    background-color: #00aa09;
+    border-radius: 12px;
+    color: #ffffff;
+    padding: 10px 6px 10px 6px;
+    font-style: oblique;
+    font-weight: 800;
+    font-size: 14px;
+}
+.clear{
+    background-color: #45a3e2;
+    border-radius: 12px;
+    color: #ffffff;
+    padding: 10px 6px 10px 6px;
+    font-style: oblique;
+    font-weight: 800;
+    font-size: 14px;
+}

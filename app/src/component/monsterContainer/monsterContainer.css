@@ -1,0 +1,11 @@
+    
+.nav{
+    min-height: 50px;
+    background-color: #4B142B;
+    border-radius: 8px;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
